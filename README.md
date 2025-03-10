@@ -14,6 +14,8 @@ Solara RAT is **NOT meant for malicious use**. It is a tool for **educational pu
 
 [Join the Discord](https://discord.gg/HThCETu2pv)
 
+Please leave a star on the repo and join up to the discord! Premium version releasing soon possibly, for advanced pen-testing!
+
 ---
 
 ## **Features**
